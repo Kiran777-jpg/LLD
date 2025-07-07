@@ -18,7 +18,7 @@ public class Main {
 
         @Override
         public String toString() {
-            return "[Name = " + this.name + ", Price = " + this.price + ", Speed = " + this.speed + " ]\n";
+            return "[Name = " + this.name + ", Price = " + this.price + ", Speed = " + this.speed + "]\n";
         }
     }
 
