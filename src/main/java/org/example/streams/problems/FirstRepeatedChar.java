@@ -47,3 +47,4 @@ public class FirstRepeatedChar {
         usingHashset(s); // not working
     }
 }
+
