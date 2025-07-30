@@ -1,4 +1,4 @@
-package org.example.threadsTest.numbersPrinterThreadPool.numbersPrinter;
+package org.example.threadsTest.numbersPrinterThreadPool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

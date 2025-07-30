@@ -1,4 +1,4 @@
-package org.example.threadsTest.numbersPrinterThreadPool.numbersPrinter;
+package org.example.threadsTest.numbersPrinterThreadPool;
 
 public class NumbersPrinterThreadPool implements Runnable{
 
